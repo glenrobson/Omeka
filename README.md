@@ -1,9 +1,15 @@
+# Omeka IIIF Docker
+
+This is a copy of Omeka configured to run with Docker Compose which comes pre-installed with the Toronto IIIF Plugin.
+
+Docker config files customised from ccnmtl/omeka and erochest/omeka.
+
 # Welcome to Omeka
 
 © 2008-2017 [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu/)
 
-This program is free software: you can redistribute it and/or modify it under 
-the terms of the GNU General Public License as published by the Free Software 
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
 Foundation, either version 3 of the License, or (at your option) any later
 version.
 
@@ -23,7 +29,7 @@ Omeka includes:
 * [TinyMCE](http://tinymce.moxiecode.com)
 * [Silk Icons](http://www.famfamfam.com/lab/icons/silk/)
 
-Use and modifications of these libraries must comply with their respective 
+Use and modifications of these libraries must comply with their respective
 licenses.
 
 Release notes for Omeka are available at
